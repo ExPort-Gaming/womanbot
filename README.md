@@ -1,5 +1,7 @@
-# womanbot
+# woman bot
 
-woman bot is a basic WIP discord bot i'm making. source code goes here.
+Woman Bot is a basic VIP Discord Bot I'm making.
 
-to get node_modules folder, run `npm update` in terminal whilst in the folder.
+Woman bot uses Slash Commands, and the source code will be public for all those who want to make their own.
+
+To run woman bot on your own, download Node.js and the source code of this bot. Then, open a terminal window in the folder you just made and run `npm update`

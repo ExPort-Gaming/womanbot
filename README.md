@@ -1,6 +1,6 @@
 # woman bot
 
-Woman Bot is a basic VIP Discord Bot I'm making.
+Woman Bot is a basic WIP Discord Bot I'm making.
 
 Woman bot uses Slash Commands, and the source code will be public for all those who want to make their own.
  
